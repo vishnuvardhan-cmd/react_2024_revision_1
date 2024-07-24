@@ -10,10 +10,10 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url(https://www.bing.com/images/search?view=detailV2&ccid=GERREHrB&id=EE2C40EAE17E0C544D892F2596A75880567A7716&thid=OIP.GERREHrBCwKPYjt9HdfoVQHaEo&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f333770.jpg&exph=1600&expw=2560&q=money+images&simid=608039130788922727&FORM=IRPRST&ck=E40523333CE2C7C148BA742213C9C6DA&selectedIndex=6&itb=0)`,
+        backgroundImage: `url(https://th.bing.com/th/id/R.35e4e4a47e524dd5a74415147de1742b?rik=r8kF1t1fZzIbOg&riu=http%3a%2f%2fpanamaadvisoryinternationalgroup.com%2fblog%2fwp-content%2fuploads%2f2015%2f04%2fmoney-06.jpg&ehk=3R6waOKAsAMonaG3j80CN%2bXsXHf%2b8t9oK6sCxe%2fwzws%3d&risl=1&pid=ImgRaw&r=0)`,
       }}
     >
-      <h1>Test For Tailwind</h1>
+    <h1>Test</h1>
     </div>
   );
 }
